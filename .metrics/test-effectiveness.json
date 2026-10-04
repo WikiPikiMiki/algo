@@ -1,10 +1,5 @@
 [
   {
-    "date": "2025-09-28T02:05:19.899345",
-    "test_failures": {},
-    "effectiveness": {}
-  },
-  {
     "date": "2025-10-05T02:04:42.212474",
     "test_failures": {},
     "effectiveness": {}
@@ -261,6 +256,11 @@
   },
   {
     "date": "2026-09-27T05:04:46.932934",
+    "test_failures": {},
+    "effectiveness": {}
+  },
+  {
+    "date": "2026-10-04T05:36:28.990901",
     "test_failures": {},
     "effectiveness": {}
   }
